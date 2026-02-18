@@ -3,9 +3,9 @@
 
 - 🔭 Estoy trabajando en combinar workflows de datos con automatizaciones en el **Laboratorio de Tranformación de Datos**
 
-- 🌱 I’m currently learning **Automatizaciones en N8N.**
+- 🌱 Lo ultimo que aprendi: **Automatizaciones en N8N.**
 
-- 💬 Ask me about **Big Data, Inteligencia Artificial, Nueva gubernamentalidad algorítmica, relaci[on humanos-maquinas (HRI)**
+- 💬Preguntame sobre **Big Data, Inteligencia Artificial, Nueva gubernamentalidad algorítmica, relacion humanos-maquinas (HRI)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
