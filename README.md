@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Anabella Abarzua Cutroni</h1>
-<h3 align="center">Una apasionada de las Ciencias Sociales, los datos y la máquinas.</h3>
+<h3 align="center">Una apasionada de las Ciencias Sociales, los datos y las máquinas.</h3>
 
-- 🔭 Estoy trabajando en conbinar worflows de datos con automatizaciones en el **Laboratorio de Tranformación de Datos**
+- 🔭 Estoy trabajando en combinar workflows de datos con automatizaciones en el **Laboratorio de Tranformación de Datos**
 
 - 🌱 I’m currently learning **Automatizaciones en N8N.**
 
-- 💬 Ask me about **Big Data, Inteligencia Artificial, Nueva gubernamentalidad algorítmica**
+- 💬 Ask me about **Big Data, Inteligencia Artificial, Nueva gubernamentalidad algorítmica, relaci[on humanos-maquinas (HRI)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
